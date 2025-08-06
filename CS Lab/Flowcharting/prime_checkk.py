@@ -8,5 +8,5 @@ else:
             print("Not Prime")
             break
     else:
-        print("Prime")
+        print("Prime!!")
     
